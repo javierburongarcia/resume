@@ -1,93 +1,257 @@
+#
+# Lectures I ve been invited to 
+#
 lectures:
 
-  -lecture:
-   title: "Colaborativa.eu Arquitectura y sociedad"
-   at: "ScarpiaXII"
-   place: "El Carpio, España"
-   time: 2013-07
-   invitedBy: "Ayuntamiento de El Carpio"
+  - lecture:
+    title: "Colaborativa.eu Arquitectura y sociedad"
+    at: "ScarpiaXII"
+    place: "El Carpio, España"
+    time: 2013-07
+    invitedBy: "Ayuntamiento de El Carpio"
 
-  -lecture:
-   title: "FabLab at SAUL"
-   at: "3dCamp"
-   place: "Limerick, Ireland"
-   time: 2013-05
-   invitedBy: "Dr. Gabriela Avram"
+  - lecture:
+    title: "FabLab at SAUL"
+    at: "3dCamp"
+    place: "Limerick, Ireland"
+    time: 2013-05
+    invitedBy: "Dr. Gabriela Avram"
 
-  -lecture:
-   title: "#DisponibleEnCórdoba"
-   at: "#Geoinquietos #4"
-   place: "Córdoba, España"
-   time: "2013-05"
-   invitedBy: "Patricio Soriano"
+  - lecture:
+    title: "#DisponibleEnCórdoba"
+    at: "#Geoinquietos #4"
+    place: "Córdoba, España"
+    time: "2013-05"
+    invitedBy: "Patricio Soriano"
 
-  -lecture:
-   title: "Open design: la catedral y el bazar"
-   at: "Escuela de Architectura, Universidad San Jorge"
-   place: "Zaragoza, España"
-   time: "2013-04"
-   invitedBy: ["Antonio Estepa", "Carlos Cámara"]
+  - lecture:
+    title: "Open design: la catedral y el bazar"
+    at: "Escuela de Architectura, Universidad San Jorge"
+    place: "Zaragoza, España"
+    time: "2013-04"
+    invitedBy: 
+      - "Antonio Estepa"
+      - "Carlos Cámara"
 
-  -lecture:
-   title: "Colaborativa.eu: la trastienda de mi empresa"
-   at: "Efímere"
-   place: "Córdoba, España"
-   time: "2013-04"
-   invitedBy: "Fundación tres Culturas
+  - lecture:
+    title: "Colaborativa.eu: la trastienda de mi empresa"
+    at: "Efímere"
+    place: "Córdoba, España"
+    time: "2013-04"
+    invitedBy: "Fundación tres Culturas
 
-  -lecture:
-   title: "Cultura digital y arquitectura"
-   at: "Colegio Oficial de Arquitectos de Jaén"
-   place: "Jaén, España"
-   time: "2013-03"
-   invitedBy: "Colegio Oficial de Arquitectos de Jaén"
+  - lecture:
+    title: "Cultura digital y arquitectura"
+    at: "Colegio Oficial de Arquitectos de Jaén"
+    place: "Jaén, España"
+    time: "2013-03"
+    invitedBy: "Colegio Oficial de Arquitectos de Jaén"
 
-  -lecture:
-   title: "Ciudad creativa y vino nuevo"
-   at: "Aleluya del vino nuevo, Real Círculo de la Amistad"
-   place: "Córdoba, España"
-   time: "2013-02"
-   invitedBy: "Consejo Regulador de la Denominación de Origen Montilla Moriles"
+  - lecture:
+    title: "Ciudad creativa y vino nuevo"
+    at: "Aleluya del vino nuevo, Real Círculo de la Amistad"
+    place: "Córdoba, España"
+    time: "2013-02"
+    invitedBy: "Consejo Regulador de la Denominación de Origen Montilla Moriles"
 
-  -lecture:
-   title: "#UrbanismoDeBarrio (Huerto Fuensanta)"
-   at: "Pechakucha #1"
-   place: "Córdoba, España"
-   time: "2013-02"
-   invitedBy: "Pechakucha Córdoba"
+  - lecture:
+    title: "#UrbanismoDeBarrio (Huerto Fuensanta)"
+    at: "Pechakucha #1"
+    place: "Córdoba, España"
+    time: "2013-02"
+    invitedBy: "Pechakucha Córdoba"
 
-  -lecture:
-   title: "Colaborativa.eu at MADE"
-   at: "MADE"
-   place: "Birmingham, UK"
-   time: "2012-12"
-   invitedBy: "David Title"
+  - lecture:
+    title: "Colaborativa.eu at MADE"
+    at: "MADE"
+    place: "Birmingham, UK"
+    time: "2012-12"
+    invitedBy: "David Title"
 
-  -lecture:
-   title: "Impresión 3D Open Source y fabricación digital"
-   at: "Escuela de Diseño Industrial, Universidad de Málaga"
-   place: "Málaga, España"
-   time: "2012-11"
-   invitedBy: "Surgenia, Centro Tecnológico Andaluz del Diseño"
+  - lecture:
+    title: "Impresión 3D Open Source y fabricación digital"
+    at: "Escuela de Diseño Industrial, Universidad de Málaga"
+    place: "Málaga, España"
+    time: "2012-11"
+    invitedBy: "Surgenia, Centro Tecnológico Andaluz del Diseño"
 
-  -lecture:
-   title: "Architectura y software"
-   at: "Laboratorio de Nuevas profesiones, Cursos de verano de la Universidad de Córdoba"
-   place: "Córdoba, España"
-   time: "2011-07"
-   invitedBy: "Consejo Social de la Universidad de Córdoba"
+  - lecture:
+    title: "Architectura y software"
+    at: "Laboratorio de Nuevas profesiones, Cursos de verano de la Universidad de Córdoba"
+    place: "Córdoba, España"
+    time: "2011-07"
+    invitedBy: "Consejo Social de la Universidad de Córdoba"
 
-  -lecture:
-   moderating: yes
-   title: "Freshlatino 2: a conversation between Pilar Echezarreta and Tim Redfern"
-   at: "Instituto Cervantes"
-   place: "Dublin, Ireland"
-   time: "2010-02-18"
-   invitedBy: "Instituto Cervantes"
+  - lecture:
+    moderating: yes
+    title: "Freshlatino 2: a conversation between Pilar Echezarreta and Tim Redfern"
+    at: "Instituto Cervantes"
+    place: "Dublin, Ireland"
+    time: "2010-02-18"
+    invitedBy: "Instituto Cervantes"
 
-  -lecture:
-   title: "Hablemos de los que empiezan en Córdoba, que hay lío"
-   at: "Colegio Oficial de Arquitectos de Córdoba"
-   place: "Córdoba, España"
-   time: "2009-05"
-   invitedBy: "Félix Arranz"
+  - lecture:
+    title: "Hablemos de los que empiezan en Córdoba, que hay lío"
+    at: "Colegio Oficial de Arquitectos de Córdoba"
+    place: "Córdoba, España"
+    time: "2009-05"
+    invitedBy: "Félix Arranz"
+#
+# Events organized by mylself or coorganized with other people and/or Institutions
+#
+events:
+
+  - event:
+    role: "Co-organizador"
+    partners: 
+      - "Magda Sánchez"
+      - "Luis Muñoz"
+    title: "ODB Meetup: Apps"
+    at: "Universidad Loyola Andalucía"
+    place: "Córdoba, España"
+    time: "2012-05-19"
+    url: "http://www.bitsandhits.info/mercado-tecnologico/celebracion-del-apps-odb-meetup-en-etea-loyola/"
+
+  - event:
+    role: "Co-organizador"
+    partners: 
+      - "Magda Sánchez"
+      - "Curro Crespo"
+    title: "Dosymedio: ¿Comprometen las parcelas ilegales el futuro de Córdoba? con Rafael Obrero, Octavio Salazar y Teresa Álvarez"
+    at: "Universidad Loyola Andalucía"
+    place: "Córdoba, España"
+    time: "2012-05-19"
+
+  - event:
+    role: "Co-organizador"
+    partners:
+      - "Magda Sánchez"
+      - "Curro Crespo"
+    title: "Dosymedio: ¿Qué significará la Ronda Norte para nuestra ciudad? con Antonio Valdenebro, Tomás Gonzalez de Canales y Gerardo Pedrós"
+    at: "Amapola Café"
+    place: "Córdoba, España"
+    time: "2010-11-24"
+
+  - event:
+    role: "Co-organizador"
+    partners:
+      - "Magda Sánchez"
+      - "Curro Crespo"
+    title: "Dosymedio: ¿Puede ser el parque Cruz Conde un lugar para todos? Con Jerónimo Sánchez y Mercedes Castro"
+    at: "Restaurante SoulFood"
+    place: "Córdoba, España"
+    time: "2010-10-13"
+
+  - event:
+    role: "Co-organizador"
+    partners:
+      - "Magda Sánchez"
+      - "Curro Crespo"
+    title: "Dosymedio: ¿Es posible la peatonalización del centro de Córdoba? con Pedro Caro, Jacinta Ortiz, Pedro Perez, Juan Aljama y Carlos Puentes"
+    at: "Restaurante SoulFood"
+    place: "Córdoba, España"
+    time: "2010-07-27"
+
+  - event:
+    role: "Co-organizador"
+    partners: 
+      - "Instituto Cervantes Dublin"
+      - "Architectural Association of Ireland"
+    title: "Fresh-air-kitecture: Andrés Jaque in conversation with Cast Architects"
+    at: "Instituto Cervantes"
+    place: "Dublin, Ireland"
+    time: "2009-12-03"
+    url: "http://dublin.cervantes.es/FichasCultura/Ficha59940_16_1.htm"
+
+  - event:
+    role: "Co-organizador"
+    title: "Round table and screening of Spanish Dream a film about the property bubble in Spain with Santi Curigeda, Guillermo Cruz and Ricardo Verges"
+    at: "Sala la Herradura"
+    place: "Córdoba, España"
+    time: "2009-06-11"
+
+  - event:
+    role: "Co-organizador"
+    partners: 
+      - "Instituto Cervantes Dublin"
+      - "Architectural Association of Ireland"
+    title: "Fresh-air-kitecture: AceboXalonso in conversation with architecture 53Seven"
+    at: "Instituto Cervantes"
+    place: "Dublin, Ireland"
+    time: "2009-02-19"
+    url: "http://dublin.cervantes.es/FichasCultura/Ficha54058_16_1.htm"
+
+  - event:
+    role: "Co-organizador"
+    partners: 
+      - "Instituto Cervantes Dublin"
+      - "Architectural Association of Ireland"
+    title: "Fresh-air-kitecture: Sara de Giles (MGM Architects) in conversation with Dominic Stevens"
+    at: "Trinity College - Davis Theatre"
+    place: "Dublin, Ireland"
+    time: "2009-01-29"
+    url: "http://dublin.cervantes.es/FichasCultura/Ficha53991_16_2.htm"
+
+  - event:
+    role: "Co-organizador"
+    partners: 
+      - "Instituto Cervantes Dublin"
+      - "Architectural Association of Ireland"
+    title: "Informal urban sustainability. Belinda Tato in conversation with Edward Conroy"
+    at: "Trinity College - Walton Theatre"
+    place: "Dublin, Ireland"
+    time: "2008-10-16"
+    url: "http://dublin.cervantes.es/FichasCultura/Ficha51324_16_2.htm"
+
+  - event:
+    role: "Co-organizador"
+    partners: 
+      - "Instituto Cervantes Dublin"
+      - "Architectural Association of Ireland"
+    title: "Tourism and urbanism. José Miguel Iribas in conversation with Tarla McGabhann"
+    at: "Trinity College - Ed Burke Theatre"
+    place: "Dublin, Ireland"
+    time: "2008-04-10"
+    url: "http://dublin.cervantes.es/FichasCultura/Ficha48443_16_2.htm"
+
+  - event:
+    role: "Co-organizador"
+    partners: 
+      - "Instituto Cervantes Dublin"
+      - "Architectural Association of Ireland"
+    title: "¡Mañana! Public Achitectural Works. Nieto y Sobejano and Yvonne Farrell"
+    at: "Trinity College - Davis Theatre"
+    place: "Dublin, Ireland"
+    time: "2008-01-31"
+    url: "http://dublin.cervantes.es/FichasCultura/Ficha46925_16_2.htm"
+
+  - event:
+    role: "Co-organizador"
+    partners: 
+      - "Instituto Cervantes Dublin"
+      - "Architectural Association of Ireland"
+    title: "¡Mañana! Public Achitectural Works. Anonio Cruz and John Tuomey"
+    at: "Instituto Cervantes"
+    place: "Dublin, Ireland"
+    time: "2007-11-29"
+    url: "http://dublin.cervantes.es/FichasCultura/Ficha45660_16_2.htm"
+
+  - event:
+    role: "Co-organizador"
+    partners: 
+      - "Instituto Cervantes Dublin"
+    title: "Jamming Two. talks on architecture and design: Simon Walker, Leo Scarff and Santi Cirugeda"
+    at: "Sugar Club"
+    place: "Dublin, Ireland"
+    time: "2007-10-03"
+    url: "http://dublin.cervantes.es/FichasCultura/Ficha45296_16_2.htm"
+
+  - event:
+    role: "Co-organizador"
+    partners: 
+      - "Instituto Cervantes Dublin"
+    title: "Jamming One. talks on architecture and design: Charles Furniture, Dominic Stevens and Curro Claret"
+    at: "Sugar Club"
+    place: "Dublin, Ireland"
+    time: "2007-05-09"
+    url: "http://jamming.archfarm.org/"
