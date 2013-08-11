@@ -1,0 +1,93 @@
+[lectures]
+
+	[lecture]
+	title: "Colaborativa.eu Arquitectura y sociedad"
+	at: "ScarpiaXII"
+	place: "El Carpio, España"
+	time: 2013-07
+	invitedBy: "Ayuntamiento de El Carpio"
+
+	[lecture]
+	title: "FabLab at SAUL"
+	at: "3dCamp"
+	place: "Limerick, Ireland"
+	time: 2013-05
+	invitedBy: "Dr. Gabriela Avram"
+
+	[lecture]
+	title: "#DisponibleEnCórdoba"
+	at: "#Geoinquietos #4"
+	place: "Córdoba, España"
+	time: "2013-05"
+	invitedBy: "Patricio Soriano"
+
+	[lecture]
+	title: "Open design: la catedral y el bazar"
+	at: "Escuela de Architectura, Universidad San Jorge"
+	place: "Zaragoza, España"
+	time: "2013-04"
+	invitedBy: ["Antonio Estepa", "Carlos Cámara"]
+
+	[lecture]
+	title: "Colaborativa.eu: la trastienda de mi empresa"
+	at: "Efímere"
+	place: "Córdoba, España"
+	time: "2013-04"
+	invitedBy: "Fundación tres Culturas
+
+	[lecture]
+	title: "Cultura digital y arquitectura"
+	at: "Colegio Oficial de Arquitectos de Jaén"
+	place: "Jaén, España"
+	time: "2013-03"
+	invitedBy: "Colegio Oficial de Arquitectos de Jaén"
+
+	[lecture]
+	title: "Ciudad creativa y vino nuevo"
+	at: "Aleluya del vino nuevo, Real Círculo de la Amistad"
+	place: "Córdoba, España"
+	time: "2013-02"
+	invitedBy: "Consejo Regulador de la Denominación de Origen Montilla Moriles"
+
+	[lecture]
+	title: "#UrbanismoDeBarrio (Huerto Fuensanta)"
+	at: "Pechakucha #1"
+	place: "Córdoba, España"
+	time: "2013-02"
+	invitedBy: "Pechakucha Córdoba"
+
+	[lecture]
+	title: "Colaborativa.eu at MADE"
+	at: "MADE"
+	place: "Birmingham, UK"
+	time: "2012-12"
+	invitedBy: "David Title"
+
+	[lecture]
+	title: "Impresión 3D Open Source y fabricación digital"
+	at: "Escuela de Diseño Industrial, Universidad de Málaga"
+	place: "Málaga, España"
+	time: "2012-11"
+	invitedBy: "Surgenia, Centro Tecnológico Andaluz del Diseño"
+
+	[lecture]
+	title: "Architectura y software"
+	at: "Laboratorio de Nuevas profesiones, Cursos de verano de la Universidad de Córdoba"
+	place: "Córdoba, España"
+	time: "2011-07"
+	invitedBy: "Consejo Social de la Universidad de Córdoba"
+
+	[lecture]
+	moderating: yes
+	title: "Freshlatino 2: a conversation between Pilar Echezarreta and Tim Redfern"
+	at: "Instituto Cervantes"
+	place: "Dublin, Ireland"
+	time: "2010-02-18"
+	invitedBy: "Instituto Cervantes"
+
+	[lecture]
+	title: "Hablemos de los que empiezan en Córdoba, que hay lío"
+	at: "Colegio Oficial de Arquitectos de Córdoba"
+	place: "Córdoba, España"
+	time: "2009-05"
+	invitedBy: "Félix Arranz"
