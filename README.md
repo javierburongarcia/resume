@@ -1,4 +1,4 @@
 resume
 ======
 
-This is my resume information in YAML 
+Hi, this is my resume information written in YAML so I can separate content from presentation. 
