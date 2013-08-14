@@ -1,5 +1,5 @@
 #
-# Lectures I ve been invited to 
+# Lectures I've been invited to 
 #
 lectures:
 
@@ -48,6 +48,7 @@ lectures:
     invitedBy: "Colegio Oficial de Arquitectos de Jaén"
 
   - lecture:
+    debate: yes
     title: "Ciudad creativa y vino nuevo"
     at: "Aleluya del vino nuevo, Real Círculo de la Amistad"
     place: "Córdoba, España"
@@ -96,6 +97,14 @@ lectures:
     place: "Córdoba, España"
     time: "2009-05"
     invitedBy: "Félix Arranz"
+
+  - lecture:
+    debate: yes
+    title: "Jornadas de debate del Plan de Equipamientos e Infraestructuras Culturales de Córdoba"
+    at: "Sala Orive"
+    place: "Córdoba, España"
+    time: "2009-03"
+    invitedBy: "Fundación Arquitectura Contemporanéa"
 #
 # Events organized by mylself or coorganized with other people and/or Institutions
 #
